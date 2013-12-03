@@ -18,6 +18,7 @@
  * Related files: Connect4.java
  */
 
+//Our player
 import java.util.*;
 public class Player implements PlayerClass{
     
