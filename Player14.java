@@ -18,6 +18,7 @@
  * Related files: Connect4.java
  */
 
+//Out player14 class represents our player
 import java.util.*;
 public class Player14 implements PlayerClass{
     
