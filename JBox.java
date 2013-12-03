@@ -6,6 +6,7 @@
 //
 // version 1.1 : 09-10-06
 //----------------------------------------------------------------
+//Class used for creating the Connect4
 import javax.swing.*; 
 import java.awt.*;
 
