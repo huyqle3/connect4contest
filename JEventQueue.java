@@ -6,6 +6,7 @@
 //
 // version 1.2 : 30-10-06
 //----------------------------------------------------------------
+//A class used for the connect 4 game
 import java.awt.*; 
 import java.util.*;
 import java.awt.event.*;
