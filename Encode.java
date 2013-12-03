@@ -1,6 +1,7 @@
 // File: Encode.java  Author: Wayne Snyder  Date: 5/15/13
 // Purpose: Prints out the hashCode() of a single BU ID; 
 //   To use, replace fake ID below with your ID, in the same format. 
+//BU ID
 
 import java.util.Arrays; 
 
